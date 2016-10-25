@@ -1,0 +1,733 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Encyclopedia WordPress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-31 21:47+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe <Mail@DennisHoppe.de>\n"
+"Language-Team: Erik Bolstad <erik.bolstad@nrk.no>\n"
+"Language: nn_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../templates/encyclopedia-related-terms.php:4
+msgid "Related entries"
+msgstr "Relaterte oppføringar"
+
+#: ../classes/mocking-bird.php:14
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../classes/mocking-bird.php:16
+#, php-format
+msgid ""
+"Available in the <a href=\"%s\" target=\"_blank\">premium version</a> only."
+msgstr ""
+
+#: ../classes/mocking-bird.php:17
+msgid "Unlock this feature"
+msgstr ""
+
+#: ../classes/mocking-bird.php:18
+#, php-format
+msgid ""
+"This option is changeable in the <a href=\"%s\" target=\"_blank\">premium "
+"version</a> only."
+msgstr ""
+
+#: ../classes/mocking-bird.php:19
+#, php-format
+msgid ""
+"Do you need a special taxonomy for your project? No problem! Just <a href="
+"\"%s\" target=\"_blank\">get in touch</a> through our support section."
+msgstr ""
+
+#: ../classes/mocking-bird.php:20
+#, php-format
+msgid ""
+"In the <a href=\"%s\" target=\"_blank\">premium version of Encyclopedia</a> "
+"you will take advantage of unlimited terms and many more features."
+msgstr ""
+
+#: ../classes/mocking-bird.php:26
+msgctxt "Link to the authors website"
+msgid "http://dennishoppe.de/en/wordpress-plugins/encyclopedia"
+msgstr ""
+
+#: ../classes/mocking-bird.php:60
+msgid "&laquo; Back to your terms"
+msgstr ""
+
+#: ../classes/mocking-bird.php:68
+#, php-format
+msgid ""
+"Sorry, there are to many %s terms for Encyclopedia Lite. This could result "
+"in strange behaviors of the plugin. It is strongly recommended to delete "
+"some terms."
+msgstr ""
+
+#: ../classes/post-type.php:16
+#, fuzzy, php-format
+msgid "%s-Term"
+msgstr "Term"
+
+#: ../classes/post-type.php:17
+msgid "Add Term"
+msgstr "Legg til oppføring"
+
+#: ../classes/post-type.php:18
+msgid "New Term"
+msgstr "Ny oppføring"
+
+#: ../classes/post-type.php:19
+msgid "Edit Term"
+msgstr "Rediger oppføring"
+
+#: ../classes/post-type.php:20
+msgid "View Term"
+msgstr "Sjå oppføring"
+
+#: ../classes/post-type.php:21
+msgid "Search Terms"
+msgstr "Søk blant oppføringar"
+
+#: ../classes/post-type.php:22
+msgid "No Terms found"
+msgstr "Fann ingen oppføringar"
+
+#: ../classes/post-type.php:23
+msgid "No Terms found in Trash"
+msgstr "Fann ingen oppføringar blant sletta element"
+
+#: ../classes/post-type.php:58
+#, php-format
+msgid "Term updated. (<a href=\"%s\">View Term</a>)"
+msgstr "Oppføringa er oppdatert. (<a href=\"%s\">Sjå oppføringar</a>)"
+
+#: ../classes/post-type.php:61
+msgid "Term updated."
+msgstr "Oppføringa er oppdatert"
+
+#: ../classes/post-type.php:62
+#, php-format
+msgid "Term restored to revision from %s"
+msgstr "Oppføringa vart tilbakestilt til versjonen frå %s"
+
+#: ../classes/post-type.php:63
+#, php-format
+msgid "Term published. (<a href=\"%s\">View Term</a>)"
+msgstr "Oppføringa er publisert. (<a href=\"%s\">Sjå oppføringar</a>)"
+
+#: ../classes/post-type.php:64
+msgid "Term saved."
+msgstr "Oppføringa er lagra."
+
+#: ../classes/post-type.php:65
+msgid "Term submitted."
+msgstr "Oppføringa er lagt til."
+
+#: ../classes/post-type.php:66
+#, php-format
+msgid "Term scheduled. (<a target=\"_blank\" href=\"%s\">View Term</a>)"
+msgstr ""
+"Oppføringa er tidsstyrt. (<a target=\"_blank\" href=\"%s\">Sjå oppføringa</"
+"a>).a>)"
+
+#: ../classes/post-type.php:67
+#, php-format
+msgid "Draft updated. (<a target=\"_blank\" href=\"%s\">Preview Term</a>)"
+msgstr ""
+"Kladden er oppdatert. (<a target=\"_blank\" href=\"%s\">Førehandsvis</a>)."
+
+#: ../classes/encyclopedia-type.php:25 ../options-page/general.php:9
+msgid "Lexicon"
+msgstr "Leksikon"
+
+#: ../classes/encyclopedia-type.php:26
+msgctxt "URL slug"
+msgid "lexicon"
+msgstr "leksikon"
+
+#: ../classes/taxonomies.php:14
+#, fuzzy
+msgid "Encyclopedia Tags"
+msgstr "Oppslagsverk-oppføringar"
+
+#: ../classes/taxonomies.php:16 ../options-page/taxonomies.php:16
+#, fuzzy
+msgid "Tags"
+msgstr "Alle emneord"
+
+#: ../classes/taxonomies.php:17
+msgid "Tag"
+msgstr "Emneord"
+
+#: ../classes/taxonomies.php:18
+msgid "Search Tags"
+msgstr "Søk i emneord"
+
+#: ../classes/taxonomies.php:19
+msgid "All Tags"
+msgstr "Alle emneord"
+
+#: ../classes/taxonomies.php:20
+msgid "Edit Tag"
+msgstr "Rediger emneord"
+
+#: ../classes/taxonomies.php:21
+msgid "Update Tag"
+msgstr "Oppdater emneord"
+
+#: ../classes/taxonomies.php:22
+msgid "Add New Tag"
+msgstr "Legg til nytt emneord"
+
+#: ../classes/taxonomies.php:23
+msgid "New Tag"
+msgstr "Nytt emneord"
+
+#: ../classes/taxonomies.php:31
+#, php-format
+msgctxt "URL slug"
+msgid "%s/tag"
+msgstr "%s/emne"
+
+#: ../classes/taxonomies.php:56
+msgid "Archive Url"
+msgstr "Arkiv-URL"
+
+#: ../classes/taxonomies.php:59
+#, php-format
+msgid "This is the URL to the archive of this %s."
+msgstr "URL-en til %s-arkivet."
+
+#: ../classes/taxonomies.php:63
+msgid "Archive Feed"
+msgstr "Arkivstraum"
+
+#: ../classes/taxonomies.php:66
+#, php-format
+msgid "This is the URL to the feed of the archive of this %s."
+msgstr "Dette er RSS-straumen til %s-arkivet."
+
+#: ../classes/options.php:19 ../options-page/options-page.php:5
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: ../classes/options.php:31
+msgid "Features"
+msgstr ""
+
+#: ../classes/options.php:32
+msgid "Taxonomies"
+msgstr "Klassifiseringar"
+
+#: ../classes/options.php:33
+#, fuzzy
+msgid "Archives"
+msgstr "Arkiv-URL"
+
+#: ../classes/options.php:34
+msgid "Search"
+msgstr "Søk"
+
+#: ../classes/options.php:35
+#, fuzzy
+msgid "Single View"
+msgstr "Einskildside"
+
+#: ../classes/options.php:36
+msgid "Cross Linking"
+msgstr ""
+
+#: ../classes/options.php:37
+msgid "User Permissions"
+msgstr ""
+
+#: ../classes/options.php:38
+#, fuzzy
+msgid "Archive URLs"
+msgstr "Arkiv-URL"
+
+#: ../options-page/options-page.php:20 ../options-page/options-page.php:33
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: ../options-page/archive-link.php:4
+#, fuzzy, php-format
+msgid ""
+"The archive link for your %1$s is: <a href=\"%2$s\" target=\"_blank\">%2$s</"
+"a>"
+msgstr ""
+"Arkivlenka for oppslagsverket ditt er <a href=\"%1$s\" target=\"_blank\">"
+"%1$s</a>"
+
+#: ../options-page/archive-link.php:8
+#, fuzzy, php-format
+msgid ""
+"The archive feed for your %1$s is: <a href=\"%2$s\" target=\"_blank\">%2$s</"
+"a>"
+msgstr ""
+"RSS-straumen for arkivet ditt er <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+
+#: ../options-page/general.php:5
+msgid "Encyclopedia type"
+msgstr "Type oppslagsverk"
+
+#: ../options-page/general.php:8
+msgid "Encyclopedia"
+msgstr "Oppslagsverk"
+
+#: ../options-page/general.php:10
+msgid "Wiki"
+msgstr "Wiki"
+
+#: ../options-page/general.php:11
+msgid "Knowledge Base"
+msgstr "Kunnskapsbase"
+
+#: ../options-page/general.php:12
+msgid "Glossary"
+msgstr "Ordliste"
+
+#: ../options-page/general.php:13
+msgid "Dictionary"
+msgstr "Ordbok"
+
+#: ../options-page/general.php:15
+#, fuzzy
+msgid ""
+"Please choose the type of your encyclopedia. This option does not change the "
+"behavior of the plugin. It controls the labels, captions and the URL slug of "
+"your archives, entries, taxonomies and feeds."
+msgstr ""
+"Vel type oppslagsverk. Denne innstillinga endrar ikkje korleis dette "
+"innstikket oppfører seg, det er berre for innstillingane og overskriftene i "
+"administrasjonsgrensesnittet."
+
+#: ../options-page/general.php:20
+#, fuzzy
+msgid "Default style"
+msgstr "Bruk standard CSS"
+
+#: ../options-page/general.php:23 ../options-page/features.php:8
+#: ../options-page/features.php:19 ../options-page/features.php:30
+#: ../options-page/features.php:41 ../options-page/features.php:52
+#: ../options-page/features.php:63 ../options-page/search.php:8
+#: ../options-page/taxonomies.php:8 ../options-page/taxonomies.php:19
+#: ../options-page/single-page.php:25 ../options-page/archive-page.php:16
+msgid "On"
+msgstr ""
+
+#: ../options-page/general.php:24 ../options-page/features.php:9
+#: ../options-page/features.php:20 ../options-page/features.php:31
+#: ../options-page/features.php:42 ../options-page/features.php:53
+#: ../options-page/features.php:64 ../options-page/search.php:9
+#: ../options-page/taxonomies.php:9 ../options-page/taxonomies.php:20
+#: ../options-page/single-page.php:26 ../options-page/archive-page.php:17
+msgid "Off"
+msgstr ""
+
+#: ../options-page/general.php:26
+#, fuzzy
+msgid ""
+"Enables or disables the encyclopedia default stylesheet on the frontend."
+msgstr "Slår på/av småbilete for oppføringane."
+
+#: ../options-page/features.php:5
+msgid "Text Editor"
+msgstr ""
+
+#: ../options-page/features.php:11
+#, fuzzy
+msgid "Enables or disables the text editor for the terms."
+msgstr "Slår på/av småbilete for oppføringane."
+
+#: ../options-page/features.php:16
+msgid "Excerpt"
+msgstr ""
+
+#: ../options-page/features.php:22
+#, fuzzy
+msgid "Enables or disables the text excerpt for the terms."
+msgstr "Slår på/av småbilete for oppføringane."
+
+#: ../options-page/features.php:27
+#, fuzzy
+msgid "Revisions"
+msgstr "Endringshistorikk"
+
+#: ../options-page/features.php:33
+#, fuzzy
+msgid "Enables or disables revisions for the terms."
+msgstr "Slår på/av endringshistorikk for oppføringane."
+
+#: ../options-page/features.php:38
+msgid "Comments &amp; Trackbacks"
+msgstr ""
+
+#: ../options-page/features.php:44
+#, fuzzy
+msgid "Enables or disables comments and trackbacks for the terms."
+msgstr "Slår på/av kommentarar og tilbaketråkk for oppføringane."
+
+#: ../options-page/features.php:49
+msgid "Featured Image"
+msgstr ""
+
+#: ../options-page/features.php:55
+#, fuzzy
+msgid "Enables or disables the featured image for the terms."
+msgstr "Slår på/av småbilete for oppføringane."
+
+#: ../options-page/features.php:60
+#, fuzzy
+msgid "Custom Fields"
+msgstr "Kommentarar"
+
+#: ../options-page/features.php:66
+#, fuzzy
+msgid "Enables or disables custom fields for the terms."
+msgstr "Slår på/av småbilete for oppføringane."
+
+#: ../options-page/search.php:5
+msgid "Query terms directly"
+msgstr "Gå direkte til emneord"
+
+#: ../options-page/search.php:11
+#, fuzzy
+msgid ""
+"Enable this feature to redirect the user to the term if he searched for its "
+"exactly title."
+msgstr ""
+"Slå på denne funksjonen for å sende brukaren rett til ei oppføring dersom "
+"søket er eksakt likt som oppføringsordet."
+
+#: ../options-page/search.php:16
+msgid "Autocomplete min length"
+msgstr "Minste tal teikn for autofullføring"
+
+#: ../options-page/search.php:19
+msgctxt "characters unit"
+msgid "characters"
+msgstr "bokstavar"
+
+#: ../options-page/search.php:20
+msgid ""
+"The minimum number of characters a user must type before suggestions will be "
+"shown."
+msgstr ""
+"Det minste talet bokstavar brukaren må skrive inn for å vise autofullføring."
+
+#: ../options-page/search.php:25
+msgid "Autocomplete delay"
+msgstr "Autofullføringsforseinking"
+
+#: ../options-page/search.php:28
+msgctxt "milliseconds time unit"
+msgid "ms"
+msgstr "ms"
+
+#: ../options-page/search.php:29
+#, fuzzy
+msgid ""
+"The delay in milliseconds between a keystroke occurs and the suggestions "
+"will be shown."
+msgstr ""
+"Forseinking i millisekund frå brukaren tastar eit teikn til autofullføringa "
+"blir vist."
+
+#: ../options-page/cross-linking.php:14
+#, fuzzy, php-format
+msgid "Link terms in %s"
+msgstr "Lenka termar i kontekst"
+
+#: ../options-page/cross-linking.php:20
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../options-page/cross-linking.php:27
+msgid "Filter order"
+msgstr ""
+
+#: ../options-page/cross-linking.php:31
+msgid "Before shortcodes"
+msgstr ""
+
+#: ../options-page/cross-linking.php:32
+msgid "After shortcodes"
+msgstr ""
+
+#: ../options-page/cross-linking.php:35
+msgid ""
+"By default the cross links should be added to the content after rendering "
+"all shortcodes. This works not for shortcodes which are calling the "
+"\"the_content\" filter while rendering. In this case please change this "
+"setting to \"Before shortcodes\"."
+msgstr ""
+
+#: ../options-page/cross-linking.php:40
+#, fuzzy
+msgid "Complete words"
+msgstr "Berre lenke på heile ord"
+
+#: ../options-page/cross-linking.php:44
+msgid "Link complete words only."
+msgstr "Berre lenke på heile ord"
+
+#: ../options-page/cross-linking.php:50
+msgid "Case sensitivity"
+msgstr ""
+
+#: ../options-page/cross-linking.php:54
+#, fuzzy
+msgid "Link terms case sensitive."
+msgstr "Lenka termar i kontekst"
+
+#: ../options-page/cross-linking.php:60
+msgid "First match only"
+msgstr ""
+
+#: ../options-page/cross-linking.php:64
+msgid "Link the first match of each term only."
+msgstr "Berre lenke på fyrste oppføring."
+
+#: ../options-page/cross-linking.php:70
+msgid "Recursion"
+msgstr ""
+
+#: ../options-page/cross-linking.php:74
+msgid "Link the term in its own content."
+msgstr "Lag lenke til oppføringa i seg sjølv."
+
+#: ../options-page/cross-linking.php:80
+msgid "Link title length"
+msgstr ""
+
+#: ../options-page/cross-linking.php:83
+msgid "words"
+msgstr ""
+
+#: ../options-page/cross-linking.php:84
+#, fuzzy
+msgid ""
+"The number of words of the linked term used as link title. This option does "
+"not affect manually created excerpts."
+msgstr "Kor mange relaterte oppføringar vil du vise?"
+
+#: ../options-page/taxonomies.php:5
+#, fuzzy
+msgid "Categories"
+msgstr "Alle kategoriar"
+
+#: ../options-page/taxonomies.php:11
+#, fuzzy
+msgid "Categories could help you structuring an awesome knowledge base."
+msgstr "Kategoriane gjer at du kan lage ein fantastisk kunnskapsbase!"
+
+#: ../options-page/taxonomies.php:22
+#, fuzzy
+msgid "Tags are necessary to create relations between entries automatically."
+msgstr ""
+"Du må bruke emneord dersom du vil vise relaterte oppføringar automatisk."
+
+#: ../options-page/single-page.php:5
+#, fuzzy
+msgid "Display related terms"
+msgstr "Vis relaterte oppføringar"
+
+#: ../options-page/single-page.php:7
+#, fuzzy
+msgid "below the current entry"
+msgstr "nedanfor oppføringa"
+
+#: ../options-page/single-page.php:8
+#, fuzzy
+msgid "above the current entry"
+msgstr "over oppføringa"
+
+#: ../options-page/single-page.php:9
+#, fuzzy
+msgid "Do not show related terms."
+msgstr "ikkje vis relaterte oppføringar"
+
+#: ../options-page/single-page.php:14
+msgid "Number of related terms"
+msgstr "Tal relaterte oppføringar"
+
+#: ../options-page/single-page.php:17
+#, fuzzy
+msgid "Number of related terms which should be shown."
+msgstr "Kor mange relaterte oppføringar vil du vise?"
+
+#: ../options-page/single-page.php:22 ../options-page/archive-page.php:13
+#, fuzzy
+msgid "Prefix filter"
+msgstr "Oppføringsfilter"
+
+#: ../options-page/single-page.php:28
+#, fuzzy
+msgid "Enables or disables the prefix filter above the encyclopedia term."
+msgstr "Slår på/av endringshistorikk for oppføringane."
+
+#: ../options-page/single-page.php:33 ../options-page/archive-page.php:24
+#, fuzzy
+msgid "Prefix filter depth"
+msgstr "Oppføringsfilter"
+
+#: ../options-page/single-page.php:36 ../options-page/archive-page.php:27
+msgid ""
+"The depth of the prefix filter is usually the number of lines with prefixes "
+"which are shown."
+msgstr ""
+
+#: ../options-page/archive-page.php:5
+msgid "Terms per page"
+msgstr "Oppføringar per side"
+
+#: ../options-page/archive-page.php:8
+#, fuzzy
+msgid "This option affects all encyclopedia archive pages."
+msgstr "Denne innstillinga endrar alle arkivsidene i oppslagsverket."
+
+#: ../options-page/archive-page.php:19
+#, fuzzy
+msgid "Enables or disables the prefix filter above the encyclopedia archive."
+msgstr "Slår på/av endringshistorikk for oppføringane."
+
+#: ../widgets/terms.php:10
+#, fuzzy, php-format
+msgid "%s Terms"
+msgstr "Term"
+
+#: ../widgets/terms.php:11
+#, php-format
+msgid "A list of your %s terms."
+msgstr ""
+
+#: ../widgets/terms.php:49
+#, fuzzy
+msgid "Number of terms:"
+msgstr "Tal relaterte oppføringar"
+
+#: ../widgets/terms.php:51
+#, fuzzy
+msgid "Leave blank to show all terms."
+msgstr "La stå blank for å vise alle."
+
+#: ../widgets/terms.php:55 ../widgets/taxonomies.php:71
+#: ../widgets/taxonomy-cloud.php:65
+#, fuzzy
+msgid "Order by:"
+msgstr "Sorter etter"
+
+#: ../widgets/terms.php:59
+msgid "Author"
+msgstr "Forfattar"
+
+#: ../widgets/terms.php:60
+msgid "Date"
+msgstr "Dato"
+
+#: ../widgets/terms.php:61
+msgid "Last modification"
+msgstr "Sist endra"
+
+#: ../widgets/terms.php:62
+msgid "Random"
+msgstr "Tilfeldig"
+
+#: ../widgets/terms.php:63
+msgid "Comment Count"
+msgstr "Tal kommentarar"
+
+#: ../widgets/terms.php:64
+msgid "Menu Order"
+msgstr "Rekkefylgje"
+
+#: ../widgets/terms.php:69 ../widgets/taxonomies.php:81
+#: ../widgets/taxonomy-cloud.php:73
+#, fuzzy
+msgid "Order:"
+msgstr "Rekkefylgje"
+
+#: ../widgets/search.php:10
+#, fuzzy, php-format
+msgid "%s Search"
+msgstr "Søk"
+
+#: ../widgets/search.php:11
+#, php-format
+msgid "A search form for your %s terms."
+msgstr ""
+
+#: ../widgets/taxonomies.php:10
+#, fuzzy, php-format
+msgid "%s Taxonomies"
+msgstr "Klassifiseringar"
+
+#: ../widgets/taxonomies.php:11
+#, php-format
+msgid "A list of your %s taxonomy items."
+msgstr ""
+
+#: ../widgets/taxonomies.php:51 ../widgets/taxonomy-cloud.php:50
+#, fuzzy
+msgid "Taxonomy:"
+msgstr "Klassifisering"
+
+#: ../widgets/taxonomies.php:60 ../widgets/related-terms.php:48
+#: ../widgets/taxonomy-cloud.php:59
+msgid "Number:"
+msgstr "Nummer:"
+
+#: ../widgets/taxonomies.php:62 ../widgets/taxonomy-cloud.php:61
+msgid "Leave blank to show all."
+msgstr "La stå blank for å vise alle."
+
+#: ../widgets/taxonomies.php:67
+msgid "Show term counts."
+msgstr ""
+
+#: ../widgets/taxonomies.php:74 ../widgets/taxonomy-cloud.php:68
+msgid "Term Count"
+msgstr "Tal oppføringar"
+
+#: ../widgets/taxonomies.php:76
+msgid "Slug"
+msgstr "Permalenke (slug)"
+
+#: ../widgets/related-terms.php:11
+#, fuzzy, php-format
+msgid "Related %s Terms"
+msgstr "Relaterte oppføringar"
+
+#: ../widgets/related-terms.php:12
+msgid "A list with the related terms of the current entry."
+msgstr ""
+
+#: ../widgets/related-terms.php:50
+#, fuzzy
+msgid "The number of related terms the widget should show."
+msgstr "Kor mange relaterte oppføringar vil du vise?"
+
+#: ../widgets/taxonomy-cloud.php:10
+#, fuzzy, php-format
+msgid "%s Taxonomy Cloud"
+msgstr "Klassifiseringssky"
+
+#: ../widgets/taxonomy-cloud.php:11
+#, php-format
+msgid "A cloud of your most used %s taxonomy items."
+msgstr ""
+
+#~ msgid "Term"
+#~ msgstr "Term"

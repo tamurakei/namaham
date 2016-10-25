@@ -1,0 +1,99 @@
+Version 1.2.0.4
+
+	i) Added new theme tags.
+	ii) Fixed issue with social icons not appearing sometimes.
+
+Version 1.2.0.3
+
+	i) Fixed Customizer Title not Visible Bug.
+	ii) Switched to title-tag support
+
+Version 1.2.0.2
+
+	i) Fixed issue where Slider/Showcase not appearing on Front Page.
+
+Version 1.2.0.1
+
+	i) Fixed Incorrect Image issue.
+
+Version 1.2.0.0
+
+	i) This is a Major Upgrade - It Complies to the New WordPress Policy which requires all themes to use Customizer instead Theme Options.
+
+Version 1.0.2.1
+
+	i) Fixed Issues with Incompatible WooCommerce File, deleted the Override to use core version.
+
+Version 1.0.2.0
+
+	i) Fixed Bug which caused Social Icons to not work.
+
+Version 1.0.0.9
+
+	i) Removed Social Icons from Footer of Admin Panel.
+
+Version 1.0.0.8
+
+	i) Added alt tag, when Logo image is used.
+	ii) Fixed Text Domain issues in social-fa.php
+	
+Version 1.0.0.7
+
+	i) Fixed Bugs with HTML5 Galleries.
+
+Version 1.0.0.5
+
+	i) Removed Duplicate add_theme_support() call for woocommerce.
+	ii) Cleaned functions.php
+	iii) Fixed a Major Bug which caused dropdowns to not work in Chrome.
+	iv) Removed Waypoints.js and tinynav.js
+	v) Fixed Fonts Loading Issues.
+	vi) Fixed Title Layout of Archive Pages. 
+	
+Version 1.0.0.4
+
+	i) Fixed Issues Which Crashed Sites on Update.
+	ii) Fixed Sanitizaiton Issues Reported by Theme Check.
+
+Version 1.0.0.3
+
+	i) Updated Redux Framework.
+	ii) Removed Redux Framework's Tracking Feature. Disabled Opt ins too. No Tracking, whatsoever.
+
+
+Version 1.0.0.2
+
+	i) Fixed Slider Not Working Bug in Preview.
+	ii) Fixed bug with Default Social Icons
+
+Version 1.0.0.1
+
+	i) Fixed PHP Error
+
+Version 1.0
+
+	i) Font Awesome License Stated.
+	ii) Fixed Bugs with Slider and Showcase.
+	iii) Minor Design and Style Changes
+	iv) Added Theme Defaults
+	v) Deleted Unnecessary Files.
+	vi) Corrected Links in Theme Options (options.php)
+
+Version 0.92
+
+	i) Set Default Sized for WooCommerce Thumbnails
+	ii) CSS Issues Fixed.
+	iii) Fixed Showcase in Firefox
+	iv) Other Minor Bug Fixes.
+
+Version 0.91
+
+	i) Globalized $content_width
+	ii) Added Proper Copyright Details
+	iii) Fixed wp_nav_menu call in footer.php
+	iv) Minor CSS Fixes
+	v Fixed Row Issue on iPads
+
+Version 0.9
+
+	i) Initial Release.

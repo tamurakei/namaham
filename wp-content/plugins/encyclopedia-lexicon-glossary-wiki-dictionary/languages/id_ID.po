@@ -1,0 +1,726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Encyclopedia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-31 21:46+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Dennis Hoppe <Mail@DennisHoppe.de>\n"
+"Language-Team: Nasrulhaq Muiz <nasrulhaq81@gmail.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: t;t:2c,1\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../templates/encyclopedia-related-terms.php:4
+msgid "Related entries"
+msgstr "Entri Terkait"
+
+#: ../classes/mocking-bird.php:14
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../classes/mocking-bird.php:16
+#, fuzzy, php-format
+msgid ""
+"Available in the <a href=\"%s\" target=\"_blank\">premium version</a> only."
+msgstr ""
+"Maaf, fitur ini hanya tersedia untuk <a href=\"%s\" target=\"_blank\">Plugin "
+"Ensiklopedia versi Pro</a>."
+
+#: ../classes/mocking-bird.php:17
+msgid "Unlock this feature"
+msgstr ""
+
+#: ../classes/mocking-bird.php:18
+#, fuzzy, php-format
+msgid ""
+"This option is changeable in the <a href=\"%s\" target=\"_blank\">premium "
+"version</a> only."
+msgstr ""
+"Maaf, fitur ini hanya tersedia untuk <a href=\"%s\" target=\"_blank\">Plugin "
+"Ensiklopedia versi Pro</a>."
+
+#: ../classes/mocking-bird.php:19
+#, php-format
+msgid ""
+"Do you need a special taxonomy for your project? No problem! Just <a href="
+"\"%s\" target=\"_blank\">get in touch</a> through our support section."
+msgstr ""
+
+#: ../classes/mocking-bird.php:20
+#, php-format
+msgid ""
+"In the <a href=\"%s\" target=\"_blank\">premium version of Encyclopedia</a> "
+"you will take advantage of unlimited terms and many more features."
+msgstr ""
+
+#: ../classes/mocking-bird.php:26
+msgctxt "Link to the authors website"
+msgid "http://dennishoppe.de/en/wordpress-plugins/encyclopedia"
+msgstr "http://dennishoppe.de/en/wordpress-plugins/encyclopedia"
+
+#: ../classes/mocking-bird.php:60
+msgid "&laquo; Back to your terms"
+msgstr "&laquo; Kembali pada istilah anda"
+
+#: ../classes/mocking-bird.php:68
+#, php-format
+msgid ""
+"Sorry, there are to many %s terms for Encyclopedia Lite. This could result "
+"in strange behaviors of the plugin. It is strongly recommended to delete "
+"some terms."
+msgstr ""
+
+#: ../classes/post-type.php:16
+#, fuzzy, php-format
+msgid "%s-Term"
+msgstr "Istilah"
+
+#: ../classes/post-type.php:17
+msgid "Add Term"
+msgstr "Tambah Istilah"
+
+#: ../classes/post-type.php:18
+msgid "New Term"
+msgstr "Istilah Baru"
+
+#: ../classes/post-type.php:19
+msgid "Edit Term"
+msgstr "Atur Istilah"
+
+#: ../classes/post-type.php:20
+msgid "View Term"
+msgstr "Lihat Istilah"
+
+#: ../classes/post-type.php:21
+msgid "Search Terms"
+msgstr "Cari Istilah"
+
+#: ../classes/post-type.php:22
+msgid "No Terms found"
+msgstr "Tidak menemukan istilah"
+
+#: ../classes/post-type.php:23
+msgid "No Terms found in Trash"
+msgstr "Tidak menemukan istilah di tempat sampah"
+
+#: ../classes/post-type.php:58
+#, php-format
+msgid "Term updated. (<a href=\"%s\">View Term</a>)"
+msgstr "Istilah diperbarui. (<a href=\"%s\">Lihat Istilah</a>)"
+
+#: ../classes/post-type.php:61
+msgid "Term updated."
+msgstr "Istilah diperbarui"
+
+#: ../classes/post-type.php:62
+#, php-format
+msgid "Term restored to revision from %s"
+msgstr "Istilah direvisi kembali dari %s"
+
+#: ../classes/post-type.php:63
+#, php-format
+msgid "Term published. (<a href=\"%s\">View Term</a>)"
+msgstr "Istilah diterbitkan. (<a href=\"%s\">Lihat Istilah</a>)"
+
+#: ../classes/post-type.php:64
+msgid "Term saved."
+msgstr "Istilah disimpan"
+
+#: ../classes/post-type.php:65
+msgid "Term submitted."
+msgstr "Istilah didaftarkan"
+
+#: ../classes/post-type.php:66
+#, php-format
+msgid "Term scheduled. (<a target=\"_blank\" href=\"%s\">View Term</a>)"
+msgstr ""
+"Istilah dijadwalkan. (<a target=\"_blank\" href=\"%s\">Lihat Istilah</a>)"
+
+#: ../classes/post-type.php:67
+#, php-format
+msgid "Draft updated. (<a target=\"_blank\" href=\"%s\">Preview Term</a>)"
+msgstr ""
+"Draft diperbarui. (<a target=\"_blank\" href=\"%s\">Pratampil Istilah</a>)"
+
+#: ../classes/encyclopedia-type.php:25 ../options-page/general.php:9
+msgid "Lexicon"
+msgstr "Kosa Kata"
+
+#: ../classes/encyclopedia-type.php:26
+msgctxt "URL slug"
+msgid "lexicon"
+msgstr "kosakata"
+
+#: ../classes/taxonomies.php:14
+msgid "Encyclopedia Tags"
+msgstr "Label Ensiklopedia"
+
+#: ../classes/taxonomies.php:16 ../options-page/taxonomies.php:16
+msgid "Tags"
+msgstr "Label"
+
+#: ../classes/taxonomies.php:17
+msgid "Tag"
+msgstr "Label"
+
+#: ../classes/taxonomies.php:18
+msgid "Search Tags"
+msgstr "Cari Label"
+
+#: ../classes/taxonomies.php:19
+msgid "All Tags"
+msgstr "Semua Label"
+
+#: ../classes/taxonomies.php:20
+msgid "Edit Tag"
+msgstr "Atur Label"
+
+#: ../classes/taxonomies.php:21
+msgid "Update Tag"
+msgstr "Perbarui Label"
+
+#: ../classes/taxonomies.php:22
+msgid "Add New Tag"
+msgstr "Tambah Label Baru"
+
+#: ../classes/taxonomies.php:23
+msgid "New Tag"
+msgstr "Label Baru"
+
+#: ../classes/taxonomies.php:31
+#, php-format
+msgctxt "URL slug"
+msgid "%s/tag"
+msgstr ""
+
+#: ../classes/taxonomies.php:56
+msgid "Archive Url"
+msgstr "Arsip URL"
+
+#: ../classes/taxonomies.php:59
+#, php-format
+msgid "This is the URL to the archive of this %s."
+msgstr "URL ini untuk arsip %s."
+
+#: ../classes/taxonomies.php:63
+msgid "Archive Feed"
+msgstr "Arsip Umpan"
+
+#: ../classes/taxonomies.php:66
+#, php-format
+msgid "This is the URL to the feed of the archive of this %s."
+msgstr "ini URL umpan pada arsip %s."
+
+#: ../classes/options.php:19 ../options-page/options-page.php:5
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: ../classes/options.php:31
+msgid "Features"
+msgstr ""
+
+#: ../classes/options.php:32
+msgid "Taxonomies"
+msgstr "Taksonomi"
+
+#: ../classes/options.php:33
+#, fuzzy
+msgid "Archives"
+msgstr "Arsip URL"
+
+#: ../classes/options.php:34
+#, fuzzy
+msgid "Search"
+msgstr "Cari Label"
+
+#: ../classes/options.php:35
+#, fuzzy
+msgid "Single View"
+msgstr "Satu Halaman"
+
+#: ../classes/options.php:36
+msgid "Cross Linking"
+msgstr ""
+
+#: ../classes/options.php:37
+msgid "User Permissions"
+msgstr ""
+
+#: ../classes/options.php:38
+#, fuzzy
+msgid "Archive URLs"
+msgstr "Arsip URL"
+
+#: ../options-page/options-page.php:20 ../options-page/options-page.php:33
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: ../options-page/archive-link.php:4
+#, fuzzy, php-format
+msgid ""
+"The archive link for your %1$s is: <a href=\"%2$s\" target=\"_blank\">%2$s</"
+"a>"
+msgstr ""
+"Link arsip ke ensiklopedia anda: <a href=\"%1$s\" target=\"_blank\">%1$s</a>"
+
+#: ../options-page/archive-link.php:8
+#, fuzzy, php-format
+msgid ""
+"The archive feed for your %1$s is: <a href=\"%2$s\" target=\"_blank\">%2$s</"
+"a>"
+msgstr ""
+"Arsip pengumpan pada Ensiklopedia anda adalah: <a href=\"%1$s\" target="
+"\"_blank\">%1$s</a>"
+
+#: ../options-page/general.php:5
+#, fuzzy
+msgid "Encyclopedia type"
+msgstr "tipe Ensiklopedia:"
+
+#: ../options-page/general.php:8
+msgid "Encyclopedia"
+msgstr "Ensiklopedia"
+
+#: ../options-page/general.php:10
+msgid "Wiki"
+msgstr ""
+
+#: ../options-page/general.php:11
+msgid "Knowledge Base"
+msgstr ""
+
+#: ../options-page/general.php:12
+msgid "Glossary"
+msgstr "Daftar Kata-kata Sukar"
+
+#: ../options-page/general.php:13
+msgid "Dictionary"
+msgstr "Kamus"
+
+#: ../options-page/general.php:15
+#, fuzzy
+msgid ""
+"Please choose the type of your encyclopedia. This option does not change the "
+"behavior of the plugin. It controls the labels, captions and the URL slug of "
+"your archives, entries, taxonomies and feeds."
+msgstr ""
+"Silakan pilih jenis ensiklopedia Anda. Pilihan ini tidak mengubah perilaku "
+"plugin. Ini hanya untuk label dan keterangan di backend."
+
+#: ../options-page/general.php:20
+#, fuzzy
+msgid "Default style"
+msgstr "Gunakan style dasar"
+
+#: ../options-page/general.php:23 ../options-page/features.php:8
+#: ../options-page/features.php:19 ../options-page/features.php:30
+#: ../options-page/features.php:41 ../options-page/features.php:52
+#: ../options-page/features.php:63 ../options-page/search.php:8
+#: ../options-page/taxonomies.php:8 ../options-page/taxonomies.php:19
+#: ../options-page/single-page.php:25 ../options-page/archive-page.php:16
+msgid "On"
+msgstr ""
+
+#: ../options-page/general.php:24 ../options-page/features.php:9
+#: ../options-page/features.php:20 ../options-page/features.php:31
+#: ../options-page/features.php:42 ../options-page/features.php:53
+#: ../options-page/features.php:64 ../options-page/search.php:9
+#: ../options-page/taxonomies.php:9 ../options-page/taxonomies.php:20
+#: ../options-page/single-page.php:26 ../options-page/archive-page.php:17
+msgid "Off"
+msgstr ""
+
+#: ../options-page/general.php:26
+#, fuzzy
+msgid ""
+"Enables or disables the encyclopedia default stylesheet on the frontend."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../options-page/features.php:5
+msgid "Text Editor"
+msgstr ""
+
+#: ../options-page/features.php:11
+#, fuzzy
+msgid "Enables or disables the text editor for the terms."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../options-page/features.php:16
+msgid "Excerpt"
+msgstr ""
+
+#: ../options-page/features.php:22
+#, fuzzy
+msgid "Enables or disables the text excerpt for the terms."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../options-page/features.php:27
+msgid "Revisions"
+msgstr ""
+
+#: ../options-page/features.php:33
+#, fuzzy
+msgid "Enables or disables revisions for the terms."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../options-page/features.php:38
+msgid "Comments &amp; Trackbacks"
+msgstr ""
+
+#: ../options-page/features.php:44
+#, fuzzy
+msgid "Enables or disables comments and trackbacks for the terms."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../options-page/features.php:49
+msgid "Featured Image"
+msgstr ""
+
+#: ../options-page/features.php:55
+#, fuzzy
+msgid "Enables or disables the featured image for the terms."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../options-page/features.php:60
+msgid "Custom Fields"
+msgstr ""
+
+#: ../options-page/features.php:66
+#, fuzzy
+msgid "Enables or disables custom fields for the terms."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../options-page/search.php:5
+msgid "Query terms directly"
+msgstr ""
+
+#: ../options-page/search.php:11
+msgid ""
+"Enable this feature to redirect the user to the term if he searched for its "
+"exactly title."
+msgstr ""
+
+#: ../options-page/search.php:16
+msgid "Autocomplete min length"
+msgstr ""
+
+#: ../options-page/search.php:19
+msgctxt "characters unit"
+msgid "characters"
+msgstr ""
+
+#: ../options-page/search.php:20
+msgid ""
+"The minimum number of characters a user must type before suggestions will be "
+"shown."
+msgstr ""
+
+#: ../options-page/search.php:25
+msgid "Autocomplete delay"
+msgstr ""
+
+#: ../options-page/search.php:28
+msgctxt "milliseconds time unit"
+msgid "ms"
+msgstr ""
+
+#: ../options-page/search.php:29
+msgid ""
+"The delay in milliseconds between a keystroke occurs and the suggestions "
+"will be shown."
+msgstr ""
+
+#: ../options-page/cross-linking.php:14
+#, php-format
+msgid "Link terms in %s"
+msgstr ""
+
+#: ../options-page/cross-linking.php:20
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../options-page/cross-linking.php:27
+msgid "Filter order"
+msgstr ""
+
+#: ../options-page/cross-linking.php:31
+msgid "Before shortcodes"
+msgstr ""
+
+#: ../options-page/cross-linking.php:32
+msgid "After shortcodes"
+msgstr ""
+
+#: ../options-page/cross-linking.php:35
+msgid ""
+"By default the cross links should be added to the content after rendering "
+"all shortcodes. This works not for shortcodes which are calling the "
+"\"the_content\" filter while rendering. In this case please change this "
+"setting to \"Before shortcodes\"."
+msgstr ""
+
+#: ../options-page/cross-linking.php:40
+msgid "Complete words"
+msgstr ""
+
+#: ../options-page/cross-linking.php:44
+msgid "Link complete words only."
+msgstr ""
+
+#: ../options-page/cross-linking.php:50
+msgid "Case sensitivity"
+msgstr ""
+
+#: ../options-page/cross-linking.php:54
+msgid "Link terms case sensitive."
+msgstr ""
+
+#: ../options-page/cross-linking.php:60
+msgid "First match only"
+msgstr ""
+
+#: ../options-page/cross-linking.php:64
+msgid "Link the first match of each term only."
+msgstr ""
+
+#: ../options-page/cross-linking.php:70
+msgid "Recursion"
+msgstr ""
+
+#: ../options-page/cross-linking.php:74
+msgid "Link the term in its own content."
+msgstr ""
+
+#: ../options-page/cross-linking.php:80
+msgid "Link title length"
+msgstr ""
+
+#: ../options-page/cross-linking.php:83
+msgid "words"
+msgstr ""
+
+#: ../options-page/cross-linking.php:84
+#, fuzzy
+msgid ""
+"The number of words of the linked term used as link title. This option does "
+"not affect manually created excerpts."
+msgstr "Jumlah istilah terkait yang ingin anda tampilkan"
+
+#: ../options-page/taxonomies.php:5
+#, fuzzy
+msgid "Categories"
+msgstr "Aktifkan kategori"
+
+#: ../options-page/taxonomies.php:11
+#, fuzzy
+msgid "Categories could help you structuring an awesome knowledge base."
+msgstr "Kategori dapat membantu membuat pengetahuan dasar yang baik"
+
+#: ../options-page/taxonomies.php:22
+#, fuzzy
+msgid "Tags are necessary to create relations between entries automatically."
+msgstr ""
+"Label penting jika anda ingin menampilkan entri yang relevan secara otomatis."
+
+#: ../options-page/single-page.php:5
+#, fuzzy
+msgid "Display related terms"
+msgstr "Tampilkan entri terkait"
+
+#: ../options-page/single-page.php:7
+#, fuzzy
+msgid "below the current entry"
+msgstr "dibawah entri ensiklopedia"
+
+#: ../options-page/single-page.php:8
+#, fuzzy
+msgid "above the current entry"
+msgstr "diatas entri ensiklopedia"
+
+#: ../options-page/single-page.php:9
+#, fuzzy
+msgid "Do not show related terms."
+msgstr "jangan tampilkan istilah terkait"
+
+#: ../options-page/single-page.php:14
+#, fuzzy
+msgid "Number of related terms"
+msgstr "jangan tampilkan istilah terkait"
+
+#: ../options-page/single-page.php:17
+#, fuzzy
+msgid "Number of related terms which should be shown."
+msgstr "Jumlah istilah terkait yang ingin anda tampilkan"
+
+#: ../options-page/single-page.php:22 ../options-page/archive-page.php:13
+#, fuzzy
+msgid "Prefix filter"
+msgstr "Saring Istilah"
+
+#: ../options-page/single-page.php:28
+#, fuzzy
+msgid "Enables or disables the prefix filter above the encyclopedia term."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../options-page/single-page.php:33 ../options-page/archive-page.php:24
+#, fuzzy
+msgid "Prefix filter depth"
+msgstr "Saring Istilah"
+
+#: ../options-page/single-page.php:36 ../options-page/archive-page.php:27
+msgid ""
+"The depth of the prefix filter is usually the number of lines with prefixes "
+"which are shown."
+msgstr ""
+
+#: ../options-page/archive-page.php:5
+#, fuzzy
+msgid "Terms per page"
+msgstr "Istilah per halaman:"
+
+#: ../options-page/archive-page.php:8
+#, fuzzy
+msgid "This option affects all encyclopedia archive pages."
+msgstr "Pilihan ini berefek pada semua arsip halaman ensiklopedia"
+
+#: ../options-page/archive-page.php:19
+#, fuzzy
+msgid "Enables or disables the prefix filter above the encyclopedia archive."
+msgstr "Terjemahkan URL tembak pada tipe ensiklopedia"
+
+#: ../widgets/terms.php:10
+#, fuzzy, php-format
+msgid "%s Terms"
+msgstr "Istilah"
+
+#: ../widgets/terms.php:11
+#, php-format
+msgid "A list of your %s terms."
+msgstr ""
+
+#: ../widgets/terms.php:49
+#, fuzzy
+msgid "Number of terms:"
+msgstr "jangan tampilkan istilah terkait"
+
+#: ../widgets/terms.php:51
+#, fuzzy
+msgid "Leave blank to show all terms."
+msgstr "Kosongkan agar tampil semua"
+
+#: ../widgets/terms.php:55 ../widgets/taxonomies.php:71
+#: ../widgets/taxonomy-cloud.php:65
+#, fuzzy
+msgid "Order by:"
+msgstr "Diatur oleh"
+
+#: ../widgets/terms.php:59
+msgid "Author"
+msgstr "Pengarang"
+
+#: ../widgets/terms.php:60
+msgid "Date"
+msgstr "Tanggal"
+
+#: ../widgets/terms.php:61
+msgid "Last modification"
+msgstr "Modifikasi terakhir"
+
+#: ../widgets/terms.php:62
+msgid "Random"
+msgstr "Acak"
+
+#: ../widgets/terms.php:63
+msgid "Comment Count"
+msgstr "Jumlah Komentar"
+
+#: ../widgets/terms.php:64
+msgid "Menu Order"
+msgstr "Menu Pengaturan"
+
+#: ../widgets/terms.php:69 ../widgets/taxonomies.php:81
+#: ../widgets/taxonomy-cloud.php:73
+#, fuzzy
+msgid "Order:"
+msgstr "Atur"
+
+#: ../widgets/search.php:10
+#, fuzzy, php-format
+msgid "%s Search"
+msgstr "Cari Label"
+
+#: ../widgets/search.php:11
+#, php-format
+msgid "A search form for your %s terms."
+msgstr ""
+
+#: ../widgets/taxonomies.php:10
+#, fuzzy, php-format
+msgid "%s Taxonomies"
+msgstr "Taksonomi"
+
+#: ../widgets/taxonomies.php:11
+#, php-format
+msgid "A list of your %s taxonomy items."
+msgstr ""
+
+#: ../widgets/taxonomies.php:51 ../widgets/taxonomy-cloud.php:50
+#, fuzzy
+msgid "Taxonomy:"
+msgstr "Taksonomi"
+
+#: ../widgets/taxonomies.php:60 ../widgets/related-terms.php:48
+#: ../widgets/taxonomy-cloud.php:59
+msgid "Number:"
+msgstr "Angka:"
+
+#: ../widgets/taxonomies.php:62 ../widgets/taxonomy-cloud.php:61
+msgid "Leave blank to show all."
+msgstr "Kosongkan agar tampil semua"
+
+#: ../widgets/taxonomies.php:67
+msgid "Show term counts."
+msgstr ""
+
+#: ../widgets/taxonomies.php:74 ../widgets/taxonomy-cloud.php:68
+msgid "Term Count"
+msgstr "Jumlah Istilah"
+
+#: ../widgets/taxonomies.php:76
+msgid "Slug"
+msgstr "Slug"
+
+#: ../widgets/related-terms.php:11
+#, fuzzy, php-format
+msgid "Related %s Terms"
+msgstr "Entri Terkait"
+
+#: ../widgets/related-terms.php:12
+msgid "A list with the related terms of the current entry."
+msgstr ""
+
+#: ../widgets/related-terms.php:50
+#, fuzzy
+msgid "The number of related terms the widget should show."
+msgstr "Jumlah istilah terkait yang ingin anda tampilkan"
+
+#: ../widgets/taxonomy-cloud.php:10
+#, fuzzy, php-format
+msgid "%s Taxonomy Cloud"
+msgstr "Taksonomi awan Ensiklopedia"
+
+#: ../widgets/taxonomy-cloud.php:11
+#, php-format
+msgid "A cloud of your most used %s taxonomy items."
+msgstr ""
+
+#~ msgid "Term"
+#~ msgstr "Istilah"
